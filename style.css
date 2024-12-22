@@ -1,5 +1,5 @@
 body{
-    background: linear-gradient(25deg, #bcee9b, #309b15 50%);
+    background: linear-gradient(25deg, #deeed4, #cbf1c2 50%);
     display: flex;
     align-items: center;
     min-height: 100vh;
@@ -10,9 +10,10 @@ body{
     margin: 0;
 }
 .container{
-    background-color: rgb(170, 228, 163);
+    background-color: #aae4a3;
+    width: 50%;
     box-sizing: border-box;
-    border-radius: 8px;
+    border-radius: 5px;
     box-shadow: 0 0 10px;
     text-align: center;
 }
@@ -22,13 +23,14 @@ body{
 }
 button{
     padding: 10px 20px;
+    border-radius: 5px;
     font-size: 16px;
     cursor: pointer;
     margin: 5px;
 }
 #start-Btn{
-    background-color: green;
+    background-color: #0ad30a;
 }
 #stop-Btn{
-    background-color: red;
+    background-color: #ff0000;
 }

@@ -37,7 +37,7 @@ const startTimer =(duration) =>{
     }
     startBtn.addEventListener('click',()=>{
         if(!timeLap){
-            timeleft= 90;
+            timeleft= 15;
             startTimer(timeleft);
             timeLap= true;
         }
