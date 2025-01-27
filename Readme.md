@@ -17,7 +17,7 @@ A **simple and responsive breathing timer** application designed to guide users 
 
 ## 📸 Screenshot  
 
-![Mindful Breathing Timer App](./Screenshot_22-12-2024_23339_127.0.0.1.jpeg)  
+![Mindful Breathing Timer App](./Mindful%20Breathing%20Timer%20app.jpeg)  
 
 ---
 
